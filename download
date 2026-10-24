@@ -1,0 +1,13 @@
+# Build output
+client/bin/
+server/target/
+*.o
+*.class
+
+# Local database
+*.db
+
+# OS / IDE files
+.DS_Store
+*.iml
+.idea/
